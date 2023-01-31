@@ -1,8 +1,3 @@
-<!-- part 3 wana 7 j course php -->
-<!-- drostkrna 7asibake breka farmane 
-     $_GET and $_POST dnaf php da -->
-
-
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
